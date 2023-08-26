@@ -7,6 +7,7 @@ function App() {
         <h1>salom</h1>
         <h2>alik</h2>
         <h4>asas</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, magni?</p>
     </div>
   );
 }
